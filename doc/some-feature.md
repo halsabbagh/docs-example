@@ -3,7 +3,7 @@
 ## Subsection
 
 Exciting documentation in here.
-Let's make a list (empty surrounding lines required):
+Let's make a clear nested list (empty surrounding lines required):
 
 - item 1
 
