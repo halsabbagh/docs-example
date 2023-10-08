@@ -12,4 +12,5 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
-   main.rst
+   main
+   random
